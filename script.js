@@ -281,6 +281,7 @@ num.forEach(function(currentItem){
 });
 
 /*Promise*/
+/*Promise*/
 
 
 
